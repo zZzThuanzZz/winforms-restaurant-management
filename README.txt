@@ -35,4 +35,4 @@ This project was created to practice building a complete desktop management syst
 This project focuses on desktop application logic and UI design rather than cloud-based backend integration.
 
 ### 🖼️ Preview Images
-![image]<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/b87975c0-13b6-464a-84c0-9383848fb310" />
+![image](<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/b87975c0-13b6-464a-84c0-9383848fb310" />)

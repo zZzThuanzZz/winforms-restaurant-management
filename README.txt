@@ -33,3 +33,6 @@ This project was created to practice building a complete desktop management syst
 
 ## ⚠️ Note
 This project focuses on desktop application logic and UI design rather than cloud-based backend integration.
+
+### 🖼️ Preview Images
+![image](https://github.com/zZzThuanzZz/winforms-restaurant-management/blob/eb57b7e26cc397b350a6b8abc6fa9ce504b117e5/Screenshot%202026-03-21%20195022.png)
